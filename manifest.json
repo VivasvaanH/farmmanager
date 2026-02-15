@@ -1,0 +1,11 @@
+{
+  "name": "Farm Manager",
+  "short_name": "Farm Manager",
+  "description": "One Stop Solution for Farming Expense Management"
+}
+```
+
+**When running `npx cap init`:**
+```
+App name: Farm Manager
+Package ID: com.farmmanager.app
